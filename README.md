@@ -8,7 +8,7 @@
 
 *(ส่วนนี้สำคัญมาก ทำให้คนเห็นภาพรวมของโปรเจกต์ทันที)*
 
-<img width="1710" height="946" alt="image" src="https://github.com/user-attachments/assets/6c1e6632-a93d-49ca-b58d-51f583b681f6" /><img width="1710" height="946" alt="image" src="https://github.com/user-attachments/assets/baffc564-3f35-425e-a047-d71182c818fe" />
+<img width="1710" height="946" alt="image" src="https://github.com/user-attachments/assets/6c1e6632-a93d-49ca-b58d-51f583b681f6" />
 
 *คำอธิบายภาพ: หน้าสำหรับล็อกอินและสมัครสมาชิก*
 
