@@ -6,7 +6,6 @@
 
 ## 📸 ภาพหน้าจอ (Screenshots)
 
-*(ส่วนนี้สำคัญมาก ทำให้คนเห็นภาพรวมของโปรเจกต์ทันที)*
 
 <img width="1710" height="946" alt="image" src="https://github.com/user-attachments/assets/6c1e6632-a93d-49ca-b58d-51f583b681f6" />
 
