@@ -11,7 +11,9 @@
 
 *คำอธิบายภาพ: หน้าสำหรับล็อกอินและสมัครสมาชิก*
 
-![ภาพตัวอย่างหน้าใช้งานหลัก](path/to/your/screenshot2.png)
+<img width="1710" height="947" alt="image" src="https://github.com/user-attachments/assets/398a847d-b2ce-42cb-a028-b24cf52c7289" />
+
+
 *คำอธิบายภาพ: หน้าแดชบอร์ดแสดงข้อมูลสินค้าคงคลัง*
 
 
