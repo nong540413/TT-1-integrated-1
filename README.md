@@ -93,4 +93,13 @@
 
 * **[ชื่อ-นามสกุลของคุณ]** - [ตำแหน่ง เช่น: Fullstack Developer] - [GitHub Profile ของคุณ](https://github.com/your-username)
 
+# TT-1-INTEGRATED-1
+## รายชื่อสมาชิก
+
+| รหัสนักศึกษา  | ชื่อ-นามสกุล               | GitHub Username |
+|----------------|----------------------------|-----------------|
+| 66130500074    | Ratchapon Klinprathum      | rk-v7           | 
+| 66130500078    | Witchapon Kangwanpanitch    | KarnZige        | 
+| 66130500098    | Thanawat Cauynukul          | nong540413             | 
+
 ---
