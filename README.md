@@ -27,10 +27,10 @@
 
 | Category | Technology |
 | :--- | :--- |
-| **Frontend** | [ระบุเทคโนโลยี เช่น: React.js, Vite, Tailwind CSS] |
-| **Backend** | [ระบุเทคโนโลยี เช่น: Node.js, Express.js] |
-| **Database** | [ระบุเทคโนโลยี เช่น: MongoDB, MySQL] |
-| **Tools** | Git, Postman, VS Code |
+| **Frontend** | [ระบุเทคโนโลยี เช่น: Vue.js, Vite, Tailwind CSS] |
+| **Backend** | [ระบุเทคโนโลยี เช่น: Java] |
+| **Database** | [ระบุเทคโนโลยี เช่น:  MySQL] |
+| **Tools** | Git, Sourcetree, Postman, VS Code |
 
 ---
 
