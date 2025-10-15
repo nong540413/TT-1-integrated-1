@@ -63,14 +63,14 @@
     * Import ไฟล์ `.sql` (ถ้ามี) หรือตั้งค่า Schema ตามที่ Backend กำหนด
 
 3.  **ตั้งค่า Backend (Java)**
-    * เปิดโปรเจกต์ในโฟลเดอร์ `server` ด้วย IntelliJ IDEA หรือ IDE ที่ใช้
+    * เปิดโปรเจกต์ในโฟลเดอร์ `backend` ด้วย IntelliJ IDEA หรือ IDE ที่ใช้
     * แก้ไขไฟล์ `application.properties` เพื่อกำหนดค่าการเชื่อมต่อ Database
     * ทำการ Build และ Run โปรเจกต์
 
 4.  **ตั้งค่าและรัน Frontend (Vue.js)**
     ```sh
     # เข้าไปที่โฟลเดอร์ client
-    cd client
+    cd frontend
 
     # ติดตั้ง dependencies
     npm install
