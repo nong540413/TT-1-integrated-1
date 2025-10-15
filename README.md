@@ -86,6 +86,6 @@
 
 | รหัสนักศึกษา | ชื่อ-นามสกุล | บทบาท (Role) | GitHub Profile |
 | :--- | :--- | :--- | :--- |
-| 66130500074 | Ratchapon Klinprathum | Fullstack Development | `[Link to GitHub]` |
-| 66130500078 | Witchapon Kangwanpanitch | Backend Development | `[Link to GitHub]` |
-| 66130500098 | Thanawat Cauynukul | Frontend Development | `[Link to GitHub]` |
+| 66130500074 | Ratchapon Klinprathum | Fullstack Development | `https://github.com/oakrk` |
+| 66130500078 | Witchapon Kangwanpanitch | Backend Development | `https://github.com/KarnZige` |
+| 66130500098 | Thanawat Cauynukul | Frontend Development | `https://github.com/nong540413` |
