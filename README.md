@@ -55,7 +55,7 @@
 
 1.  **Clone a repository**
     ```sh
-    git clone [https://github.com/](https://github.com/)[your-github-username]/TT-1-INTEGRATED-1.git
+    git clone https://github.com/rk-v7/TT-1-integrated-1.git
     ```
 
 2.  **ตั้งค่าฐานข้อมูล (Database Setup)**
